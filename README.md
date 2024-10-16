@@ -1,5 +1,7 @@
 # Gestor de Tareas en Tiempo Real / Real-time Task Manager
 
+![Vista Previa](https://i.ibb.co/S3ZSY3L/tareas-tiempo-real.png)
+
 ## Español
 
 Este proyecto es una aplicación de gestor de tareas en tiempo real, construida con **Node.js**, **Socket.io** y **MongoDB**. Los usuarios pueden añadir tareas, verlas en tiempo real y administrarlas desde una interfaz sencilla y moderna.
