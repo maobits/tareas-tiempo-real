@@ -92,4 +92,4 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 - **E-mail**: [code@maobits.com](mailto:code@maobits.com)
 - **WhatsApp**: [Enlace directo](https://wa.me/573153774638?text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20del%20repositorio)
 - **Sitio web**: [mauriciochara.online](http://mauriciochara.online)
-- **Foto de perfil**: ![Foto de perfil](https://i.ibb.co/b1P2ZsG/foto-perfil-maobits.jpg)
+- **Foto de perfil**: ![Foto de perfil](https://i.ibb.co/ncmG17j/foto-perfil.jpg)
